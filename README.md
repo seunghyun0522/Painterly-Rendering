@@ -24,9 +24,8 @@ typedef struct Stroke {
 ```
 - 논문의 의사코드를 활용
 
-<img src="https://velog.velcdn.com/images/seunghyun0522/post/17a6e6c9-166e-4092-a7b8-58b9cf0616aa/image.png" width="120">
-<img src="https://velog.velcdn.com/images/seunghyun0522/post/fd4eff21-528c-4765-b11c-c1aedac36964/image.png" width="120">
-<img src="https://velog.velcdn.com/images/seunghyun0522/post/0e2b7d83-ab4e-40c3-95e6-08478bde5d75/image.png" width="120">
+<img src="https://velog.velcdn.com/images/seunghyun0522/post/17a6e6c9-166e-4092-a7b8-58b9cf0616aa/image.png" width="200">
+
 
 - Linked List, Stack Data structure
 

@@ -2,7 +2,7 @@
 
 <hr/>
 
-### result
+### result1
 
 <img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/4be15450-6de1-49b9-a1b2-562ac4847d87" width="180" weight="150" margin-right="100">
 <img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/5af1f7ad-6cc2-44c4-acc9-7b3efa50b4ec" width="180" weight="150">
@@ -10,7 +10,13 @@
 <img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/0976b89f-464b-422c-b8d3-700589704c42" width="180" weight="150">
 <img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/c9f0770e-43d7-4c53-a747-fe632d343124" width="180" weight="150">
 
+### result2
 
+<img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/3e0bda4c-a835-40d2-a845-8bb475b6aea3" width="180" weight="150>
+<img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/10f6ab34-be3b-4560-a0c3-6e6b19386678" width="180" weight="150>
+<img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/95cf7e75-b7b6-4f17-8e48-e9262bb878b6" width="180" weight="150>
+<img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/a1c3da46-9627-4515-8ef9-7c7c8761cf04" width="180" weight="150>
+<img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/7896bbe6-2d8f-40a8-9fcf-ff99ff487459" width="180" weight="150>
 
 <hr/>
 

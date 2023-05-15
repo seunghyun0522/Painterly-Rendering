@@ -2,7 +2,7 @@
 
 <hr/>
 
-### result1
+### 🌠 result1
 
 <img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/4be15450-6de1-49b9-a1b2-562ac4847d87" width="180" weight="150" margin-right="100">
 <img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/5af1f7ad-6cc2-44c4-acc9-7b3efa50b4ec" width="180" weight="150">
@@ -10,7 +10,7 @@
 <img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/0976b89f-464b-422c-b8d3-700589704c42" width="180" weight="150">
 <img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/c9f0770e-43d7-4c53-a747-fe632d343124" width="180" weight="150">
 
-### result2
+### 🌠 result2
 
 <img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/3e0bda4c-a835-40d2-a845-8bb475b6aea3" width="180" weight="150">
 <img src="https://github.com/seunghyun0522/Painterly-Rendering/assets/75532258/10f6ab34-be3b-4560-a0c3-6e6b19386678" width="180" weight="150">

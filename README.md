@@ -72,7 +72,7 @@ Stroke* paintCanvas(Stroke* head, IplImage* canvas, int mode) { // 논문상의 
 
 ```
 - 곡선, 주변값들의 좌표값 저장
-- 로컬상의 파일을 불러오기
+- 로컬상의 파일을 불러오기 (파일을 저장해서 로컬에 있는 경로를 입력한다)
 <hr/>
 
 
